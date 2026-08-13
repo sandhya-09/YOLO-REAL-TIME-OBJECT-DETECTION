@@ -174,8 +174,8 @@ with gradio_app:
     gr.HTML(
         """
         <h3 style='text-align: center'>
-        <a href='https://github.com/Praveenrelli/4-2-project-yolo-real-time-object-detection/blob/main/AID%20TEAM-17%20PRAVEEN.pdf' target='_blank'>PraveenRelli</a> |
-        <a href='https://github.com/Praveenrelli/4-2-project-yolo-real-time-object-detection/blob/main/MAINCODE' target='_blank'>github</a>
+        <a href='https://github.com/sandhya-09/YOLO-REAL-TIME-OBJECT-DETECTION/blob/main/AID%20TEAM-17%20PRAVEEN.pdf' target='_blank'>sandhya-09</a> |
+        <a href='https://github.com/sandhya-09/YOLO-REAL-TIME-OBJECT-DETECTION/blob/main/MAINCODE' target='_blank'>github</a>
         </h3>
         """)
     with gr.Row():
